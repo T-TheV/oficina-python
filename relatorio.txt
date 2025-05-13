@@ -1,0 +1,9 @@
+--------- Relatório de Livros ---------
+Quantidade de livros: 20
+Livro mais caro: Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991 (£57.25)
+Link: https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html
+Livro mais barato: Starving Hearts (Triangular Trade Trilogy, #1) (£13.99)
+Link: https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html
+Valor total dos livros: £760.97
+Média de preço: £38.05
+---------------------------------------
